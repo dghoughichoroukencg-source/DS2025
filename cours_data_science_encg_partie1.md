@@ -1,5 +1,6 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
+![Uploading WhatsApp Image 2025-10-27 à 13.39.11_c6ff40d2.jpg…]()
 
 ---
 
