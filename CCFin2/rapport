@@ -14,7 +14,7 @@ But général :** recueillir des informations sur la santé, les comportements m
 
 ---
 
-## 📅 II. Période et contexte temporel
+ II. Période et contexte temporel
 
 Bien que le fichier ne contienne pas de date explicite, le **NPHA** est un sondage périodique américain lancé en **2017**.
 Chaque année ou chaque cycle, un thème particulier de la santé des seniors est abordé (ex. : sommeil, médicaments, visites médicales).
@@ -24,7 +24,7 @@ Ce jeu de données correspond probablement à **l’un des cycles récents** (en
 
 ---
 
-## 🌍 III. Localisation géographique
+ III. Localisation géographique
 
 * **Pays concerné :** 🇺🇸 **États-Unis d’Amérique**
 * **Zone de couverture :** nationale (tous les États fédérés)
@@ -35,7 +35,7 @@ L’étude vise à obtenir une **représentation nationale** des personnes âgé
 
 ---
 
-## 👥 IV. Population étudiée
+ IV. Population étudiée
 
 * **Taille totale de l’échantillon :** 714 individus.
 * **Caractéristiques démographiques :**
@@ -49,7 +49,7 @@ Cette population représente les **adultes plus âgés**, avec une diversité en
 
 ---
 
-## ⚙️ V. Méthodologie et mode de collecte
+ V. Méthodologie et mode de collecte
 
 * **Méthode de collecte :** sondage administré **en ligne et par téléphone** via un échantillon représentatif.
 * **Type de données :** données **numériques codées** (chaque réponse correspond à un chiffre représentant une catégorie).
@@ -60,7 +60,7 @@ Les questions portent principalement sur la **santé générale**, les **habitud
 
 ---
 
-## 📊 VI. Description détaillée des variables
+  VI. Description détaillée des variables
 
 | **Nom de la variable**                         | **Description**                                                                      |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -80,9 +80,8 @@ Les questions portent principalement sur la **santé générale**, les **habitud
 | **Race**                                       | Groupe ethnique ou racial du répondant.                                              |
 | **Gender**                                     | Sexe du répondant.                                                                   |
 
----
 
-## 🧠 VII. Objectif et intérêt de l’enquête
+ VII. Objectif et intérêt de l’enquête
 
 Cette enquête cherche à :
 
@@ -94,7 +93,7 @@ Cette enquête cherche à :
 
 ---
 
-## 🧩 VIII. Structure et interprétation des données
+ VIII. Structure et interprétation des données
 
 * Les **valeurs numériques** représentent des catégories ou niveaux (par exemple :
 
@@ -109,9 +108,9 @@ Cette enquête cherche à :
   * voir si les troubles du sommeil sont liés à la douleur ou au stress ;
   * comparer les habitudes selon l’âge ou le genre.
 
----
 
-## 🧾 IX. Conclusion générale
+
+🧾 IX. Conclusion générale
 
 Le fichier **NPHA-doctor-visits.csv** constitue un **échantillon statistique national américain** centré sur les **personnes âgées**.
 Il offre une vue d’ensemble sur :
@@ -123,7 +122,3 @@ Il offre une vue d’ensemble sur :
 
 Ce jeu de données est donc **un outil de recherche précieux** pour les spécialistes de la santé publique, les gérontologues, et les décideurs souhaitant améliorer la qualité de vie des seniors américains.
 
----
-
-Souhaites-tu que je te fasse maintenant une **analyse chiffrée** (moyennes, pourcentages, graphiques simples) pour compléter ce compte rendu descriptif ?
-"
