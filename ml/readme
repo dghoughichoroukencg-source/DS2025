@@ -1,1 +1,93 @@
 
+---
+
+# 📌 **Compte rendu sur le fichier « Wine Quality »**
+
+## 🆔 **Quoi ?**
+
+Le fichier contient **deux jeux de données** sur la qualité du vin :
+
+* **Vin rouge** : `winequality-red.csv` (1599 enregistrements)
+* **Vin blanc** : `winequality-white.csv` (4898 enregistrements)
+
+Chaque échantillon décrit un vin avec **12 caractéristiques chimiques**, ainsi qu’une note de **qualité** donnée par des experts œnologues.
+
+---
+
+## 📍 **D’où viennent les données ? (Qui ? Où ? Quand ?)**
+
+* Utilisées en recherche par l’Université de **Porto, Portugal**.
+* Données issues de **producteurs portugais**.
+* Évaluations faites par **des spécialistes du vin** selon une échelle de qualité de **0 à 10**.
+* Période : données collectées durant des **études scientifiques (2009-2015)**.
+
+---
+
+## 🧪 **Comment sont évalués les vins ?**
+
+Chaque vin est mesuré selon des **indicateurs physico-chimiques**, par exemple :
+
+| Variable         | Description                       |
+| ---------------- | --------------------------------- |
+| Fixed acidity    | Acides non volatils (tartarique…) |
+| Volatile acidity | Acides volatils (vinaigre)        |
+| Citric acid      | Acidité liée au goût frais        |
+| Residual sugar   | Sucre restant après fermentation  |
+| Chlorides        | Taux de sel                       |
+| Sulphates / SO₂  | Conservateurs                     |
+| Density          | Densité du vin                    |
+| pH               | Acidité                           |
+| Alcohol          | Teneur en alcool                  |
+| Quality          | Note de 0 à 10                    |
+
+---
+
+## 📊 **Statistiques clés**
+
+### 🔴 **Vin Rouge**
+
+* **Nombre d’échantillons** : 1599
+* **Note moyenne de qualité** : **5.63/10**
+* **Teneur moyenne en alcool** : **10.42%**
+* **Acidité volatile élevée** ( → goût vinaigré plus fréquent que le blanc)
+
+### ⚪ **Vin Blanc**
+
+* **Nombre d’échantillons** : 4898
+* **Note moyenne de qualité** : **5.88/10**
+* **Teneur moyenne en alcool** : **10.51%**
+* **Teneur en sucre plus élevée** que les rouges, d’où un **goût plus doux**
+
+---
+
+## 🥇 **Quel vin est le meilleur ?**
+
+📌 **Les vins blancs ont une qualité moyenne légèrement supérieure** aux rouges (5.88 contre 5.63).
+
+---
+
+## 📌 **Relations importantes observées**
+
+| Facteur                 | Influence probable                         |
+| ----------------------- | ------------------------------------------ |
+| + d’alcool              | Qualité souvent meilleure                  |
+| Trop d’acidité volatile | Baisse de la qualité                       |
+| Residual sugar élevé    | Fréquent dans les blancs, améliore le goût |
+
+---
+
+## 🧾 **Conclusion**
+
+🔎 Le fichier fournit des données scientifiques qui permettent de :
+
+* **Prédire la qualité du vin**
+* **Optimiser les processus de production**
+* **Identifier les critères les plus importants** pour un bon vin
+
+⚪ Les vins **blancs** ont en moyenne **meilleure qualité**
+🔴 Les vins **rouges** sont **plus acides et plus variables en qualité**
+
+---
+
+
+
